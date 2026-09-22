@@ -1,0 +1,14 @@
+C:\poo\treino\bin\Debug\net10.0\treino.exe
+C:\poo\treino\bin\Debug\net10.0\treino.deps.json
+C:\poo\treino\bin\Debug\net10.0\treino.runtimeconfig.json
+C:\poo\treino\bin\Debug\net10.0\treino.dll
+C:\poo\treino\bin\Debug\net10.0\treino.pdb
+C:\poo\treino\obj\Debug\net10.0\treino.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\treino\obj\Debug\net10.0\treino.AssemblyInfoInputs.cache
+C:\poo\treino\obj\Debug\net10.0\treino.AssemblyInfo.cs
+C:\poo\treino\obj\Debug\net10.0\treino.csproj.CoreCompileInputs.cache
+C:\poo\treino\obj\Debug\net10.0\treino.dll
+C:\poo\treino\obj\Debug\net10.0\refint\treino.dll
+C:\poo\treino\obj\Debug\net10.0\treino.pdb
+C:\poo\treino\obj\Debug\net10.0\treino.genruntimeconfig.cache
+C:\poo\treino\obj\Debug\net10.0\ref\treino.dll

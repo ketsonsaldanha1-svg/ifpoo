@@ -1,0 +1,14 @@
+C:\poo\cadastro\obj\Debug\net10.0\cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\cadastro\obj\Debug\net10.0\cadastro.AssemblyInfoInputs.cache
+C:\poo\cadastro\obj\Debug\net10.0\cadastro.AssemblyInfo.cs
+C:\poo\cadastro\obj\Debug\net10.0\cadastro.csproj.CoreCompileInputs.cache
+C:\poo\cadastro\bin\Debug\net10.0\cadastro.exe
+C:\poo\cadastro\bin\Debug\net10.0\cadastro.deps.json
+C:\poo\cadastro\bin\Debug\net10.0\cadastro.runtimeconfig.json
+C:\poo\cadastro\bin\Debug\net10.0\cadastro.dll
+C:\poo\cadastro\bin\Debug\net10.0\cadastro.pdb
+C:\poo\cadastro\obj\Debug\net10.0\cadastro.dll
+C:\poo\cadastro\obj\Debug\net10.0\refint\cadastro.dll
+C:\poo\cadastro\obj\Debug\net10.0\cadastro.pdb
+C:\poo\cadastro\obj\Debug\net10.0\cadastro.genruntimeconfig.cache
+C:\poo\cadastro\obj\Debug\net10.0\ref\cadastro.dll

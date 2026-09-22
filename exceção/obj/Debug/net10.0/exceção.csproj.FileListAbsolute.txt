@@ -1,0 +1,14 @@
+C:\poo\exceção\bin\Debug\net10.0\exceção.exe
+C:\poo\exceção\bin\Debug\net10.0\exceção.deps.json
+C:\poo\exceção\bin\Debug\net10.0\exceção.runtimeconfig.json
+C:\poo\exceção\bin\Debug\net10.0\exceção.dll
+C:\poo\exceção\bin\Debug\net10.0\exceção.pdb
+C:\poo\exceção\obj\Debug\net10.0\exceção.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\exceção\obj\Debug\net10.0\exceção.AssemblyInfoInputs.cache
+C:\poo\exceção\obj\Debug\net10.0\exceção.AssemblyInfo.cs
+C:\poo\exceção\obj\Debug\net10.0\exceção.csproj.CoreCompileInputs.cache
+C:\poo\exceção\obj\Debug\net10.0\exceção.dll
+C:\poo\exceção\obj\Debug\net10.0\refint\exceção.dll
+C:\poo\exceção\obj\Debug\net10.0\exceção.pdb
+C:\poo\exceção\obj\Debug\net10.0\exceção.genruntimeconfig.cache
+C:\poo\exceção\obj\Debug\net10.0\ref\exceção.dll

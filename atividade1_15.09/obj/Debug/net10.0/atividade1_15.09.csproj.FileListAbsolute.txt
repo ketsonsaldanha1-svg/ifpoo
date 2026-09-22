@@ -1,0 +1,14 @@
+C:\poo\atividade1_15.09\bin\Debug\net10.0\atividade1_15.09.exe
+C:\poo\atividade1_15.09\bin\Debug\net10.0\atividade1_15.09.deps.json
+C:\poo\atividade1_15.09\bin\Debug\net10.0\atividade1_15.09.runtimeconfig.json
+C:\poo\atividade1_15.09\bin\Debug\net10.0\atividade1_15.09.dll
+C:\poo\atividade1_15.09\bin\Debug\net10.0\atividade1_15.09.pdb
+C:\poo\atividade1_15.09\obj\Debug\net10.0\atividade1_15.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\atividade1_15.09\obj\Debug\net10.0\atividade1_15.09.AssemblyInfoInputs.cache
+C:\poo\atividade1_15.09\obj\Debug\net10.0\atividade1_15.09.AssemblyInfo.cs
+C:\poo\atividade1_15.09\obj\Debug\net10.0\atividade1_15.09.csproj.CoreCompileInputs.cache
+C:\poo\atividade1_15.09\obj\Debug\net10.0\atividade1_15.09.dll
+C:\poo\atividade1_15.09\obj\Debug\net10.0\refint\atividade1_15.09.dll
+C:\poo\atividade1_15.09\obj\Debug\net10.0\atividade1_15.09.pdb
+C:\poo\atividade1_15.09\obj\Debug\net10.0\atividade1_15.09.genruntimeconfig.cache
+C:\poo\atividade1_15.09\obj\Debug\net10.0\ref\atividade1_15.09.dll

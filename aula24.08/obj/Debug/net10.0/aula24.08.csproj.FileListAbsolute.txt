@@ -1,0 +1,14 @@
+C:\poo\aula24.08\obj\Debug\net10.0\aula24.08.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\aula24.08\obj\Debug\net10.0\aula24.08.AssemblyInfoInputs.cache
+C:\poo\aula24.08\obj\Debug\net10.0\aula24.08.AssemblyInfo.cs
+C:\poo\aula24.08\obj\Debug\net10.0\aula24.08.csproj.CoreCompileInputs.cache
+C:\poo\aula24.08\bin\Debug\net10.0\aula24.08.exe
+C:\poo\aula24.08\bin\Debug\net10.0\aula24.08.deps.json
+C:\poo\aula24.08\bin\Debug\net10.0\aula24.08.runtimeconfig.json
+C:\poo\aula24.08\bin\Debug\net10.0\aula24.08.dll
+C:\poo\aula24.08\bin\Debug\net10.0\aula24.08.pdb
+C:\poo\aula24.08\obj\Debug\net10.0\aula24.08.dll
+C:\poo\aula24.08\obj\Debug\net10.0\refint\aula24.08.dll
+C:\poo\aula24.08\obj\Debug\net10.0\aula24.08.pdb
+C:\poo\aula24.08\obj\Debug\net10.0\aula24.08.genruntimeconfig.cache
+C:\poo\aula24.08\obj\Debug\net10.0\ref\aula24.08.dll

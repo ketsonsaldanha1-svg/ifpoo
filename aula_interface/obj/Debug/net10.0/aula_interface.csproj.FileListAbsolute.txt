@@ -1,0 +1,14 @@
+C:\poo\aula_interface\bin\Debug\net10.0\aula_interface.exe
+C:\poo\aula_interface\bin\Debug\net10.0\aula_interface.deps.json
+C:\poo\aula_interface\bin\Debug\net10.0\aula_interface.runtimeconfig.json
+C:\poo\aula_interface\bin\Debug\net10.0\aula_interface.dll
+C:\poo\aula_interface\bin\Debug\net10.0\aula_interface.pdb
+C:\poo\aula_interface\obj\Debug\net10.0\aula_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\aula_interface\obj\Debug\net10.0\aula_interface.AssemblyInfoInputs.cache
+C:\poo\aula_interface\obj\Debug\net10.0\aula_interface.AssemblyInfo.cs
+C:\poo\aula_interface\obj\Debug\net10.0\aula_interface.csproj.CoreCompileInputs.cache
+C:\poo\aula_interface\obj\Debug\net10.0\aula_interface.dll
+C:\poo\aula_interface\obj\Debug\net10.0\refint\aula_interface.dll
+C:\poo\aula_interface\obj\Debug\net10.0\aula_interface.pdb
+C:\poo\aula_interface\obj\Debug\net10.0\aula_interface.genruntimeconfig.cache
+C:\poo\aula_interface\obj\Debug\net10.0\ref\aula_interface.dll
