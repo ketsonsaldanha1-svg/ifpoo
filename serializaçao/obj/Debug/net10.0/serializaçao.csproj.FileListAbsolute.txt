@@ -1,0 +1,15 @@
+C:\poo\serializaçao\bin\Debug\net10.0\serializaçao.exe
+C:\poo\serializaçao\bin\Debug\net10.0\serializaçao.deps.json
+C:\poo\serializaçao\bin\Debug\net10.0\serializaçao.runtimeconfig.json
+C:\poo\serializaçao\bin\Debug\net10.0\serializaçao.dll
+C:\poo\serializaçao\bin\Debug\net10.0\serializaçao.pdb
+C:\poo\serializaçao\obj\Debug\net10.0\serializaçao.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\serializaçao\obj\Debug\net10.0\serializaçao.AssemblyInfoInputs.cache
+C:\poo\serializaçao\obj\Debug\net10.0\serializaçao.AssemblyInfo.cs
+C:\poo\serializaçao\obj\Debug\net10.0\serializaçao.csproj.CoreCompileInputs.cache
+C:\poo\serializaçao\obj\Debug\net10.0\serializaçao.sourcelink.json
+C:\poo\serializaçao\obj\Debug\net10.0\serializaçao.dll
+C:\poo\serializaçao\obj\Debug\net10.0\refint\serializaçao.dll
+C:\poo\serializaçao\obj\Debug\net10.0\serializaçao.pdb
+C:\poo\serializaçao\obj\Debug\net10.0\serializaçao.genruntimeconfig.cache
+C:\poo\serializaçao\obj\Debug\net10.0\ref\serializaçao.dll

@@ -1,0 +1,15 @@
+C:\poo\e-comerce\bin\Debug\net10.0\e-comerce.exe
+C:\poo\e-comerce\bin\Debug\net10.0\e-comerce.deps.json
+C:\poo\e-comerce\bin\Debug\net10.0\e-comerce.runtimeconfig.json
+C:\poo\e-comerce\bin\Debug\net10.0\e-comerce.dll
+C:\poo\e-comerce\bin\Debug\net10.0\e-comerce.pdb
+C:\poo\e-comerce\obj\Debug\net10.0\e-comerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\e-comerce\obj\Debug\net10.0\e-comerce.AssemblyInfoInputs.cache
+C:\poo\e-comerce\obj\Debug\net10.0\e-comerce.AssemblyInfo.cs
+C:\poo\e-comerce\obj\Debug\net10.0\e-comerce.csproj.CoreCompileInputs.cache
+C:\poo\e-comerce\obj\Debug\net10.0\e-comerce.sourcelink.json
+C:\poo\e-comerce\obj\Debug\net10.0\e-comerce.dll
+C:\poo\e-comerce\obj\Debug\net10.0\refint\e-comerce.dll
+C:\poo\e-comerce\obj\Debug\net10.0\e-comerce.pdb
+C:\poo\e-comerce\obj\Debug\net10.0\e-comerce.genruntimeconfig.cache
+C:\poo\e-comerce\obj\Debug\net10.0\ref\e-comerce.dll

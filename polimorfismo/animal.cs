@@ -4,7 +4,7 @@ public class Animal
     public virtual void FazerSom()
     {
         
-        Console.WriteLine("o animal fez: au au");
+        Console.WriteLine("o animal barulho");
 
     }
 
